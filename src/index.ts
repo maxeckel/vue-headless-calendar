@@ -1,0 +1,1 @@
+export { useHeadlessCalendar } from './composables/useHeadlessCalendar';
